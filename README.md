@@ -11,7 +11,7 @@ So, here is one!
 
 Install in Adobe Illustrator's script folder. On a Mac, that's /Presets/en_US/Scripts/
 
-It works by duplicating the document, scaling up the copy, then rewriting the SVG header to have the correct dimensions in millimeter.
+It works by duplicating the document, scaling up the copy, then rewriting the SVG header to have the correct dimensions in millimeter. Making it the same size in all softwares!
 
 If you like the script and find it useful, then find any magician on Youtube and click a like on any of their videos. And if you really really like it, and are well off, then buy me a coffee at https://paypal.me/tomstonemagic
 
